@@ -1,0 +1,31 @@
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Python cache and tooling
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# IDE and operating-system files
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Locally generated model artifacts
+*.keras
+*.h5
+*.pickle
+*.pkl
+
+# Local logs and temporary files
+*.log
+*.tmp
+
+# Superseded local plot
+Figure_1.png
