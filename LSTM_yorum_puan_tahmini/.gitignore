@@ -1,0 +1,27 @@
+# Virtual environment
+venv/
+.venv/
+env/
+
+# Python cache and tooling
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Generated model and preprocessing artifacts
+*.h5
+*.keras
+tokenizer.pkl
+
+# Generated plots and local data
+*.png
+*.jpg
+*.jpeg
+*.csv
+*.parquet
+
+# Environment and local editor files
+.env
+.vscode/
