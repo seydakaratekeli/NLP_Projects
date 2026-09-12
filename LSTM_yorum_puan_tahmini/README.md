@@ -54,6 +54,8 @@ Ilk calistirmada Yelp veri seti Hugging Face'ten indirilir. Egitim tamamlandigin
 
 Egitim grafigi ekranda gosterilir.
 
+<img width="640" height="480" alt="image" src="https://github.com/user-attachments/assets/121ae208-5715-47e8-a09e-11bfaaaff42a" />
+
 ## Tahmin Yapma
 
 Model egitildikten sonra:
