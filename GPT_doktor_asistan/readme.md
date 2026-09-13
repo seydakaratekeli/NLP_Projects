@@ -136,7 +136,6 @@ Copy-Item .env.example .env
 OPENAI_API_KEY=your_openai_api_key_here
 ```
 
-`.env` dosyası `.gitignore` içinde olduğu için GitHub'a gönderilmemelidir.
 
 ## Çalıştırma
 
@@ -213,24 +212,12 @@ Backend çalışırken <http://127.0.0.1:8000/docs> adresi açıldığında Fast
 
 `python client_test.py` komutundan sonra terminalde ad, yaş ve mesaj bilgileri istenir; API yanıtı `Doktor Asistanı:` etiketiyle gösterilir.
 
-> Gerçek çalışma ekran görüntüleri lokal olarak `docs/screenshots/` klasöründe tutulabilir. Bu klasör `.gitignore` tarafından gizlendiği için GitHub'a gönderilmez. Ekran görüntülerini yalnızca lokal README önizlemesinde göstermek için aşağıdaki görselleri aktif hale getirebilirsiniz:
->
-> ```markdown
-> ![FastAPI Swagger UI](docs/screenshots/swagger-ui.png)
-> ![Terminal sohbet ekranı](docs/screenshots/terminal-chat.png)
-> ```
 
-## Git ve GitHub
+<img width="1068" height="528" alt="image" src="https://github.com/user-attachments/assets/004e3012-de8f-4ea3-9743-51177c043231" />
 
-Projede bulunan `.gitignore` dosyası aşağıdaki yerel dosyaların GitHub'a gönderilmesini engeller:
 
-- `.env` ve diğer gizli ortam dosyaları
-- `venv/`, `.venv/` ve `env/` sanal ortam klasörleri
-- Python önbellek dosyaları ve test çıktıları
-- Yerel database, log ve build dosyaları
-- IDE ayar klasörleri
+<img width="1647" height="592" alt="image" src="https://github.com/user-attachments/assets/15ba1741-5b9e-4228-b551-98c7bee2050d" />
 
-`.env.example`, başkalarının kendi API anahtarını tanımlayabilmesi için özellikle repository'de tutulur. Lokal çalışma ekran görüntüleri ise `docs/screenshots/` klasöründe saklanır ve bu klasör GitHub'a gönderilmez.
 
 ## Veri Saklama ve Hafıza
 
@@ -261,7 +248,7 @@ Bu nedenle uygulama yeniden başlatıldığında konuşma geçmişi silinir. Ür
 - Acil durum tespiti ve güvenli yönlendirme kuralları
 - Docker, CI/CD ve otomatik test pipeline'ı
 
-## Lisans
+
 
 Bu proje için henüz bir lisans belirtilmemiştir. GitHub'da açık kaynak olarak paylaşmadan önce uygun bir lisans ekleyin.
 
