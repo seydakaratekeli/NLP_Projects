@@ -77,9 +77,6 @@ GPT_doktor_asistan/
 | python-dotenv | `.env` dosyasından API anahtarı okuma |
 | Requests | Terminal istemcisinden HTTP isteği gönderme |
 
-mermaid diagram 
-
-![alt text](image.png)
 
 ## Kurulum
 
