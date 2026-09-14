@@ -25,7 +25,7 @@ Projeyi kendi bilgisayarınızda çalıştırmak için aşağıdaki adımları i
 
 1. **Projeyi indirin (Klonlayın):**
    ```bash
-   git clone https://github.com/seydakaratekeli/Gemini_akilli_asistan.git
+   git clone https://github.com/seydakaratekeli/NLP_Projects/Gemini_akıllı_asistan.git
    cd Gemini_akilli_asistan
    ```
 
@@ -67,5 +67,10 @@ Uygulama açıldığında "Komut girin:" uyarısı ile karşılaşacaksınız. A
 - `data/assistant.db` : Uygulama çalıştığında otomatik olarak oluşan SQLite yerel veritabanı dosyasıdır. (GitHub'a yüklenmez).
 
 ## 📝 Notlar
-- Proje eğitim amaçlı geliştirilmiş olup yerel olarak (terminal üzerinden) çalışmaktadır. 
+- Proje eğitim amaçlı geliştirilmiş olup yerel olarak (terminal üzerinden) çalışmaktadır.
+
+  
+-<img width="1227" height="592" alt="image" src="https://github.com/user-attachments/assets/8047ab79-8340-48d3-a58b-a47c579d40bd" />
+
+
 - İlerleyen süreçlerde bu projeye bir kullanıcı arayüzü (Arayüz / UI) eklenebilir veya veritabanı yapısı ORM araçlarıyla (SQLAlchemy) büyütülebilir.
