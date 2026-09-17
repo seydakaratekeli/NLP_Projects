@@ -72,6 +72,12 @@ The total fee mentioned in the contract is $10,000.
 ```
 *Çıkmak için `q`, `quit` veya `exit` yazabilirsiniz.*
 
+## Terminal Ekran görüntüsü 
+
+<img width="1231" height="588" alt="image" src="https://github.com/user-attachments/assets/e17db5bc-cff7-42c4-a370-be5505bcda8d" />
+
+
+
 ## 📂 Proje Yapısı
 
 ```text
