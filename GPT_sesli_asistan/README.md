@@ -59,6 +59,13 @@ python gpt_voice_chat.py
 - Yapay zeka size uygun bir cevap üretir ve bu cevap ekrana yazılır.
 - Sistem bu döngüyü, siz **"Çık"** kelimesini barındıran bir cümle kurana kadar sonsuz döngüde devam ettirir.
 
+
+Terminal Ekran Görüntüsü
+
+<img width="1267" height="973" alt="image" src="https://github.com/user-attachments/assets/b7602333-5f1f-49c9-8838-1abbfb0a5581" />
+
+
+
 ## 📝 Güvenlik ve Gizlilik
 Bu depo `.gitignore` ile yapılandırılmıştır. 
 
