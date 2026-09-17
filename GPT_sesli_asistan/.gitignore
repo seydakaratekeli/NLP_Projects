@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+.venv/
+env/
+.env_folder/
+
+# API keys and secrets
+.env
+
+# Application logs
+logs/
+*.log
+
+# Audio files
+*.wav
+recorded.wav
+record_*.wav
+
+# OS generated files
+.DS_Store
+Thumbs.db
