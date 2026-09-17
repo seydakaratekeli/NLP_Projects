@@ -1,0 +1,19 @@
+# Environments
+.env
+venv/
+env/
+.venv/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Vector DB & Chunks (Auto-generated data)
+data/*.faiss
+data/*.pkl
+
+# OS files
+.DS_Store
+Thumbs.db
