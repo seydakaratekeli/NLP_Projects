@@ -66,6 +66,11 @@ Ajanı çalıştırdıktan sonra terminal üzerinden sorularınızı sorabilirsi
 
 Programdan çıkmak için `q` yazabilirsiniz.
 
+## Terminal Ekran Görüntüsü
+
+<img width="1000" height="795" alt="image" src="https://github.com/user-attachments/assets/eedccc06-8057-4db2-a979-0e302c3f5b22" />
+
+
 ## Gelecek Planları (Roadmap) 🗺️
 
 - Bellek (Memory) eklenerek sohbet bağlamının hatırlanması.
