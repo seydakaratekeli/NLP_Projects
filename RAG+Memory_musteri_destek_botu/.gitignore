@@ -1,0 +1,19 @@
+# Python / Environment
+.env
+venv/
+env/
+__pycache__/
+*.pyc
+*.pyo
+
+# Vector Databases
+faq_vectorstore/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# MacOS
+.DS_Store
