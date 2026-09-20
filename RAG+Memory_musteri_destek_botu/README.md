@@ -48,6 +48,14 @@ Müşteri hizmetleri genellikle "Şifremi unuttum", "İade süresi kaç gün?", 
 - **Streamlit:** Python kodu ile hızlıca interaktif, modern ve kullanıcı dostu web arayüzleri oluşturabilmek için kullanıldı.
 - **ConversationBufferMemory:** Chatbotun önceki konuşmaları hatırlaması, sohbette bağlamı kaybetmemesi ve doğal bir diyalog hissi yaratması için entegre edildi.
 
+## PDF Yükleme Ekran Görüntüsü
+
+<img width="686" height="333" alt="image" src="https://github.com/user-attachments/assets/913ea695-3fb4-4ac0-b1cd-a41813f05a08" />
+
+## ChatBot Ekran Görüntüsü
+
+<img width="730" height="793" alt="image" src="https://github.com/user-attachments/assets/be0566d0-6c55-498c-b9ea-f5b9b6a22776" />
+
 ## Kurulum ve Çalıştırma
 
 1. Projeyi bilgisayarınıza klonlayın veya indirin.
