@@ -51,6 +51,9 @@ Sistem 3 temel bileşen üzerinden çalışır:
    ```bash
    python scheduler_gpt_manager.py
    ```
+**Terminal Ekran Görüntüsü**
+<img width="701" height="936" alt="image" src="https://github.com/user-attachments/assets/96766734-be92-4319-976a-41de2c803c62" />
+
 
 ## Çözdüğü Problem
 Projelerde manuel görev takibi yapmak, sürekli "Bu iş ne oldu?" diye sormak yöneticiler için zaman alıcı ve yorucu bir süreçtir. Ayrıca otomatik hatırlatıcılar genelde mekaniktir ve çalışanın durumunu (örn: "başladım ama veritabanında sorun çıktı") anlayamaz. Bu proje, görev takibini otomatikleştirirken **insansı bir etkileşim** sunar. Çalışanın verdiği cevapları anlayarak mekanik hatırlatıcıların ötesine geçer ve gerçekten projenin gidişatına dair akıllı bir asistan görevi üstlenir.
