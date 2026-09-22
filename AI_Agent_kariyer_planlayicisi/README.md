@@ -168,7 +168,6 @@ pip install -r requirements.txt
 OPENAI_API_KEY=sk-proj-YOUR_KEY_HERE
 ```
 
-> ⚠️ **Uyarı:** `.env` dosyasını asla commit etme! `.gitignore` tarafından zaten dışlanmıştır.
 
 ### 5. Uygulamayı Çalıştır
 
@@ -203,9 +202,13 @@ Kaynak Önerileri:
  - Coursera Machine Learning Specialization
    https://coursera.org/...
    Andrew Ng tarafından sunulan...
-```
 
----
+## Terminal Ekran Görüntüsü
+
+<img width="808" height="890" alt="image" src="https://github.com/user-attachments/assets/0c1b2487-4f7d-425b-946c-4cec1bd090d8" />
+
+<img width="993" height="560" alt="image" src="https://github.com/user-attachments/assets/9f7abe38-a313-4cdf-adf4-797de61b2961" />
+
 
 ## 📦 Bağımlılıklar (Özet)
 
@@ -231,10 +234,6 @@ python-dotenv==1.2.3
 - [ ] LangGraph ile çok-tur konuşma akışı
 
 ---
-
-## 📄 Lisans
-
-Bu proje [MIT Lisansı](../LICENSE) kapsamındadır.
 
 ---
 
